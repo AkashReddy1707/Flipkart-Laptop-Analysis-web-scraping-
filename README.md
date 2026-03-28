@@ -52,6 +52,6 @@ pip install pandas matplotlib seaborn requests beautifulsoup4
 
 ---
 
-##Author
+## Author
 
 Akash Reddy
